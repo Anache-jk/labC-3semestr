@@ -1,0 +1,10 @@
+C:\Users\Simon\Desktop\laba2Crossplatform\laba2Crossplatform\bin\Debug\laba2Crossplatform.exe.config
+C:\Users\Simon\Desktop\laba2Crossplatform\laba2Crossplatform\bin\Debug\laba2Crossplatform.exe
+C:\Users\Simon\Desktop\laba2Crossplatform\laba2Crossplatform\bin\Debug\laba2Crossplatform.pdb
+C:\Users\Simon\Desktop\laba2Crossplatform\laba2Crossplatform\obj\Debug\laba2Crossplatform.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\laba2Crossplatform\laba2Crossplatform\obj\Debug\laba2Crossplatform.Form1.resources
+C:\Users\Simon\Desktop\laba2Crossplatform\laba2Crossplatform\obj\Debug\laba2Crossplatform.Properties.Resources.resources
+C:\Users\Simon\Desktop\laba2Crossplatform\laba2Crossplatform\obj\Debug\laba2Crossplatform.csproj.GenerateResource.cache
+C:\Users\Simon\Desktop\laba2Crossplatform\laba2Crossplatform\obj\Debug\laba2Crossplatform.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\laba2Crossplatform\laba2Crossplatform\obj\Debug\laba2Crossplatform.exe
+C:\Users\Simon\Desktop\laba2Crossplatform\laba2Crossplatform\obj\Debug\laba2Crossplatform.pdb
