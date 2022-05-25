@@ -1,0 +1,10 @@
+C:\Users\Simon\Desktop\Laba1PI\Laba1PI\bin\Debug\Laba1PI.exe.config
+C:\Users\Simon\Desktop\Laba1PI\Laba1PI\bin\Debug\Laba1PI.exe
+C:\Users\Simon\Desktop\Laba1PI\Laba1PI\bin\Debug\Laba1PI.pdb
+C:\Users\Simon\Desktop\Laba1PI\Laba1PI\obj\Debug\Laba1PI.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Laba1PI\Laba1PI\obj\Debug\Laba1PI.Form1.resources
+C:\Users\Simon\Desktop\Laba1PI\Laba1PI\obj\Debug\Laba1PI.Properties.Resources.resources
+C:\Users\Simon\Desktop\Laba1PI\Laba1PI\obj\Debug\Laba1PI.csproj.GenerateResource.cache
+C:\Users\Simon\Desktop\Laba1PI\Laba1PI\obj\Debug\Laba1PI.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Laba1PI\Laba1PI\obj\Debug\Laba1PI.exe
+C:\Users\Simon\Desktop\Laba1PI\Laba1PI\obj\Debug\Laba1PI.pdb
