@@ -1,0 +1,10 @@
+C:\Users\Simon\Desktop\laba4crossplatform\laba4crossplatform\bin\Debug\laba4crossplatform.exe.config
+C:\Users\Simon\Desktop\laba4crossplatform\laba4crossplatform\bin\Debug\laba4crossplatform.exe
+C:\Users\Simon\Desktop\laba4crossplatform\laba4crossplatform\bin\Debug\laba4crossplatform.pdb
+C:\Users\Simon\Desktop\laba4crossplatform\laba4crossplatform\obj\Debug\laba4crossplatform.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\laba4crossplatform\laba4crossplatform\obj\Debug\laba4crossplatform.Form1.resources
+C:\Users\Simon\Desktop\laba4crossplatform\laba4crossplatform\obj\Debug\laba4crossplatform.Properties.Resources.resources
+C:\Users\Simon\Desktop\laba4crossplatform\laba4crossplatform\obj\Debug\laba4crossplatform.csproj.GenerateResource.cache
+C:\Users\Simon\Desktop\laba4crossplatform\laba4crossplatform\obj\Debug\laba4crossplatform.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\laba4crossplatform\laba4crossplatform\obj\Debug\laba4crossplatform.exe
+C:\Users\Simon\Desktop\laba4crossplatform\laba4crossplatform\obj\Debug\laba4crossplatform.pdb
