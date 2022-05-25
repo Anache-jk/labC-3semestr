@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "laba5Crossplatform/1.0.0": {
+        "runtime": {
+          "laba5Crossplatform.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laba5Crossplatform/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
