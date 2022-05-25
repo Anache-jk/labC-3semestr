@@ -1,0 +1,10 @@
+C:\Users\Simon\Desktop\lab7Crossplatform\lab7Crossplatform\bin\Debug\lab7Crossplatform.exe.config
+C:\Users\Simon\Desktop\lab7Crossplatform\lab7Crossplatform\bin\Debug\lab7Crossplatform.exe
+C:\Users\Simon\Desktop\lab7Crossplatform\lab7Crossplatform\bin\Debug\lab7Crossplatform.pdb
+C:\Users\Simon\Desktop\lab7Crossplatform\lab7Crossplatform\obj\Debug\lab7Crossplatform.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\lab7Crossplatform\lab7Crossplatform\obj\Debug\lab7Crossplatform.Form1.resources
+C:\Users\Simon\Desktop\lab7Crossplatform\lab7Crossplatform\obj\Debug\lab7Crossplatform.Properties.Resources.resources
+C:\Users\Simon\Desktop\lab7Crossplatform\lab7Crossplatform\obj\Debug\lab7Crossplatform.csproj.GenerateResource.cache
+C:\Users\Simon\Desktop\lab7Crossplatform\lab7Crossplatform\obj\Debug\lab7Crossplatform.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\lab7Crossplatform\lab7Crossplatform\obj\Debug\lab7Crossplatform.exe
+C:\Users\Simon\Desktop\lab7Crossplatform\lab7Crossplatform\obj\Debug\lab7Crossplatform.pdb
