@@ -1,0 +1,10 @@
+C:\Users\Simon\Desktop\labarat6Crossplatform\labarat6Crossplatform\bin\Debug\labarat6Crossplatform.exe.config
+C:\Users\Simon\Desktop\labarat6Crossplatform\labarat6Crossplatform\bin\Debug\labarat6Crossplatform.exe
+C:\Users\Simon\Desktop\labarat6Crossplatform\labarat6Crossplatform\bin\Debug\labarat6Crossplatform.pdb
+C:\Users\Simon\Desktop\labarat6Crossplatform\labarat6Crossplatform\obj\Debug\labarat6Crossplatform.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\labarat6Crossplatform\labarat6Crossplatform\obj\Debug\labarat6Crossplatform.Form1.resources
+C:\Users\Simon\Desktop\labarat6Crossplatform\labarat6Crossplatform\obj\Debug\labarat6Crossplatform.Properties.Resources.resources
+C:\Users\Simon\Desktop\labarat6Crossplatform\labarat6Crossplatform\obj\Debug\labarat6Crossplatform.csproj.GenerateResource.cache
+C:\Users\Simon\Desktop\labarat6Crossplatform\labarat6Crossplatform\obj\Debug\labarat6Crossplatform.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\labarat6Crossplatform\labarat6Crossplatform\obj\Debug\labarat6Crossplatform.exe
+C:\Users\Simon\Desktop\labarat6Crossplatform\labarat6Crossplatform\obj\Debug\labarat6Crossplatform.pdb
